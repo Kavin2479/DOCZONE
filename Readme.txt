@@ -1,5 +1,5 @@
 								
-										Welcome to our web application
+					Welcome to our web application
        
 Team Name: Prize_Hunters
 		
