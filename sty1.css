@@ -1,0 +1,31 @@
+body
+{
+	background-image: url("./dna1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+div
+{
+	display: flex;
+	flex-direction: column;
+	margin-top: 200px;
+	margin-left: 450px;
+	text-align: center;
+	align-items: center;
+	height: 200px;
+	width: 350px;
+	justify-content: space-evenly;
+	position: absolute;
+}
+p
+{
+  margin-top: 5px;
+  margin-bottom: -10px;
+}
+button
+{
+	weidth: 250px;
+  height: 50px;
+  align-content: center;
+}

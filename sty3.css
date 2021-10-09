@@ -1,0 +1,73 @@
+body
+{
+	background-image: url("./dna1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+form
+{
+	display: flex;
+	flex-direction: column;
+	margin-top: 200px;
+	margin-left: 450px;
+	text-align: center;
+	align-items: center;
+	height: 350px;
+	width: 350px;
+	justify-content: space-evenly;
+}
+p
+{
+  margin-top: 5px;
+  margin-bottom: -10px;
+}
+button
+{
+	weidth: 250px;
+  height: 50px;
+  align-content: center;
+}
+.C
+{
+ display: flex;
+ justify-content: flex-start;
+ margin-bottom: 6px;
+}
+.D 
+{
+ display: flex;
+ margin-bottom: 5px;
+}
+#D1
+{
+	margin-left: 42px;
+}
+#D2
+{
+	margin-left: 43px;
+}
+#D3
+{
+	margin-left: 69px;
+}
+#D4
+{
+	margin-left: 67px;
+}
+#D5
+{
+	margin-left: 51px;
+}
+#D6
+{
+	margin-left: 50px;
+}
+#D7
+{
+	margin-left: 52px;
+}
+.S 
+{
+	margin-left: 580px;
+}

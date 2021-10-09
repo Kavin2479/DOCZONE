@@ -1,0 +1,42 @@
+body
+{
+	background-image: url("./dna1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+form
+{
+	display: flex;
+	flex-direction: column;
+	margin-top: 200px;
+	margin-left: 450px;
+	text-align: center;
+	align-items: center;
+	height: 200px;
+	width: 300px;
+	justify-content: space-evenly;
+	
+}
+p
+{
+  margin-top: 5px;
+  margin-bottom: -10px;
+}
+a
+{
+	text-decoration: none;
+	text-decoration-style: none;	
+}
+table
+{
+	display: flex;
+}
+.E 
+{
+	margin-top: 10px;
+	margin-left: 580px;
+}
+span{
+	color: white;
+}
