@@ -28,4 +28,4 @@ Run the DOCZONE (File Type: .html) in Google chrome/ Firefox
 					OR
 Rigth click on DOCZONE (File Type: .html) and Select Open with then give Google chrome/ Firefox
 
-									Thank You for Choosing Our Application 
+					Thank You for Choosing Our Application 
